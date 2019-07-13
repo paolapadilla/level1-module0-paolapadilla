@@ -1,8 +1,10 @@
+package photo_quiz;
+
 import org.jointheleague.graphical.robot.Robot;
 
 public class Houses {
 
-	public static void main(String[] args) {
+	   public static void main(String[] args) {
 		
 		Robot value = new Robot();
 		value. setSpeed(10);
