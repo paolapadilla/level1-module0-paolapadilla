@@ -12,10 +12,12 @@ Duck(String favorite,int numberOfFriends){
 public void quack(){
 	System.out.println("Quack!");
 }
+public void waddle(){
+  System.out.println("waddle");
+}
 
-{
 		
 		
 	}
 
-}
+
