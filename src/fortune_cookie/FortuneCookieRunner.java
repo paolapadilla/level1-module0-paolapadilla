@@ -1,3 +1,4 @@
+package fortune_cookie;
 
 public class FortuneCookieRunner {
 

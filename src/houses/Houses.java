@@ -1,4 +1,4 @@
-package photo_quiz;
+package houses;
 
 import org.jointheleague.graphical.robot.Robot;
 
